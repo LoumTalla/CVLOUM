@@ -9,7 +9,7 @@ body {
 .header {
   position: absolute;
   display: block;
-  background-color: rgba(0, 0, 0, 0.6);
+  background-color: blue;
   top: 0;
   left: 0;
   padding-left: 1%;
